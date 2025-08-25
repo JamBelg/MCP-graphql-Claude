@@ -1,0 +1,8 @@
+mcp[cli]
+httpx
+requests
+datasets
+pandas
+flask
+flask_graphql
+graphene
