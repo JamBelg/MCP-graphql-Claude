@@ -159,6 +159,13 @@ Once integrated with Claude Desktop, you can ask questions like:
 "Which products sell the most by quantity?"
 ```
 
+### 📊 Live Demo - Interactive Sales Report
+
+Check out this **interactive visualization** showing the top 10 customers by sales and order count:
+**[Top 10 Customers Sales Report](https://claude.ai/public/artifacts/ff106e0d-7f81-42ba-905c-ca048bde8798)**
+
+This report demonstrates the kind of rich analytics and visualizations you can generate using this MCP server with Claude's data analysis capabilities.
+
 ## 🔍 GraphQL Playground
 
 Access the GraphQL playground at: http://127.0.0.1:5001/graphql
