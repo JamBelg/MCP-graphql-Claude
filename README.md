@@ -36,7 +36,7 @@ A Model Context Protocol (MCP) server that provides access to sales data through
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/mcp-graphql-sales-server.git
+git clone https://github.com/JamBelg/MCP-graphql-Claude.git
 cd mcp-graphql-sales-server
 ```
 
